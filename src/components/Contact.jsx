@@ -228,7 +228,7 @@ const Contact = () => {
                 exit={{ opacity: 0, y: -20 }}
                 className="mt-6 p-4 md:p-6 bg-green-500/20 border border-green-500/50 rounded-xl text-green-300 text-center"
               >
-                <p className="font-semibold text-lg">✅ Message Sent!</p>
+                <p className="font-semibold text-lg">Message Sent!</p>
                 <p className="text-sm mt-2">I'll get back to you soon!</p>
               </motion.div>
             )}
