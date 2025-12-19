@@ -35,7 +35,7 @@ const ContactIcons = () => {
     {
       id: 'resume',
       icon: FaDownload,
-      link: '/Prinsika(reaume1).pdf',
+      link: 'public/Resume.pdf',
       label: 'Resume',
       download: true,
     },
